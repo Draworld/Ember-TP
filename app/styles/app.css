@@ -458,6 +458,16 @@ p {
   top: -25px;
 }
 
+.tomster2{
+  background: url(../assets/images/félicitation.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 400px;
+  width: 400px;
+  position: relative;
+  top: -25px;
+}
+
 .screen-reader{
   position: absolute;
   overflow: hidden;
